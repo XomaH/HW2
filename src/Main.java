@@ -111,4 +111,5 @@ public class Main
         System.out.println("Денис теперь получает " + denisZpAfterInMohth + " годовой доход вырос на " + (denisInEarAfter - denisInEar));
         System.out.println("Кристина теперь получает " + kristinaZpAfterInMobth + " годовой доход вырос на " + (kristinaInEarAfner - kristinaInEar));
 
-    }}
+    }
+}
